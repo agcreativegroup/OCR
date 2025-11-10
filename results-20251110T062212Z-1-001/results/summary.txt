@@ -1,0 +1,10 @@
+
+OCR Processing Summary
+============================================================
+Total images processed: 82
+Total objects detected: 25
+Output CSV: /content/drive/MyDrive/OCR_Project1/results/ocr_results.csv
+Detection images: /content/drive/MyDrive/OCR_Project1/results/
+
+Classes detected: ['laptop', 'book']
+============================================================
